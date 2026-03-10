@@ -1,0 +1,2 @@
+contacts_with_area.csv filter=lfs diff=lfs merge=lfs -text
+company_area_points.csv filter=lfs diff=lfs merge=lfs -text
